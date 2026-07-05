@@ -1,0 +1,33 @@
+body{background-color: bisque;
+     display: grid;
+     justify-content: center;
+   padding: 0;
+     margin: 22px;
+      font-size: medium;
+      min-height: 100vh;   }
+
+.card{ width: 50%;
+      text-align: left;
+       border-radius: 20px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+     background-color: aqua;
+     font-size: 20px;
+    }    
+     
+.card-header{ text-align: center;
+              color: crimson;}      
+
+.btn{ background-color: darkslategrey;
+       width: 100%;
+       color: aliceblue;
+       font-weight: bold;
+       border-radius: 20px;
+       justify-content: center;} 
+       
+.btn2{background-color: darkslategrey;
+       width: 20%;
+       color: aliceblue;
+       font-weight: bold;
+       border-radius: 20px;
+       align-items: center;}       
